@@ -35,10 +35,7 @@ Develop a machine learning model that predicts which Tweets are about real disas
 ## Predictive Accuracy of Machine Learning Models Used
 
 <table>
-  <th>
-    <td>Model Name</td>
-    <td>Accuracy Score</td>
-  </th>
+  | Model Name | Accuracy Score |
   <tr>
     <td>Random Forests Classifier</td>
     <td>79.06%</td>
