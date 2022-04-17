@@ -36,8 +36,8 @@ Develop a machine learning model that predicts which Tweets are about real disas
 
 <table>
   <tr>
-    <td><b style='color:purple'>Model Name</b></td>
-    <td><b style='color:green'>Accuracy Score</b></td>
+    <td><b>Model Name</b></td>
+    <td><b>Accuracy Score</b></td>
   </tr>
   <tr>
     <td>Random Forests Classifier</td>
