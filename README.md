@@ -36,6 +36,7 @@ Develop a machine learning model that predicts which Tweets are about real disas
 
 <table>
   | Model Name | Accuracy Score |
+  | --- | --- |
   <tr>
     <td>Random Forests Classifier</td>
     <td>79.06%</td>
